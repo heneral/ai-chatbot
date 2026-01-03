@@ -72,3 +72,6 @@ python3 -m streamlit run app.py
 ```
 
 This will start the Streamlit server, and you can access the chatbot in your web browser at `http://localhost:8501`.
+
+## Live Demo
+https://ai-chatbot-richardsawanaka.streamlit.app/
